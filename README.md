@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Emmanuel Maxwell <a href="https://www.linkedin.com/in/codehouze/"><img align="right" src="https://github.com/Codehouze/Codehouze/blob/main/assets/linkedin.svg" height="18px" /></a><a href="https://twitter.com/codehouze" align="right"><img align="right"  src="https://github.com/Codehouze/Codehouze/blob/main/assets/twitter.svg" height="18px" />
 </a>
 <br>
+Experienced working with spreadsheets, SQL, and Python as well as a solid understanding of databases and data cleaning. I'm confident that I can turn complex data into clear and actionable insights. I have strong communication, analytical and organizational skills which would be beneficial while working in an analytics role. Skilled in data aggregation, calculations, data cleaning, data ethics, exploratory data analysis, problem-solving and structured thinking. 
 
-- I am a highly skilled Full-Stack Developer with over five (5)+ years of experience in developing and maintaining server-side network components and building high-performance applications. Proficient in both frontend and backend technologies, I possess a deep understanding of software engineering fundamentals and a track record of delivering high-impact products. I am committed to finding innovative solutions to complex problems and excel in collaborative environments...
+Currently, I am a PhD Follow at Nord University, Innocamp Steinkjer  Norway. This experience helped me gain a research background, which is an essential quality for data analytics including database management, research, critical thinking, statistical analysis, report writing, and data collection.
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Codehouze/Codehouze/blob/main/techstack.gif" width="360px" border-radius="20px" />
