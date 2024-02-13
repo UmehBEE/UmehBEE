@@ -27,8 +27,7 @@ Currently, I am a PhD Follow at Nord University, Innocamp Steinkjer  Norway. Thi
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="figma" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/americocunhajr/MaxEnt/raw/master/logo/MaxEnt.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" alt="figma" height='42px'/> </a>
 
 
