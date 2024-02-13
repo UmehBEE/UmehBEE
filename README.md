@@ -10,29 +10,15 @@ Currently, I am a PhD Follow at Nord University, Innocamp Steinkjer  Norway. Thi
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a Cross platform application.
-- 🌱 &nbsp; I’m currently learning React Native
+- 🔭 &nbsp; I’m currently working on a Species distribution model.
+- 🌱 &nbsp; I’m currently learning R.
 - 👯 &nbsp; I’m looking to collaborate on an Open Source Project.
 - 🤔 &nbsp; I’m looking for a Remote Job.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help <a href="https://codehouze-codehouze.vercel.app/">Reach out</a>
-- 📄 &nbsp; Know about my experiences <a href="https://docs.google.com/document/d/16uCdXxQvh0nHSWvTPWInytmxGiwbuZH4SAyfnhnBSvI/edit?usp=sharing"/>Resume</a>
-- 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/codehouze/"/>Linkedin</a>
+- 💬 &nbsp; Ask me about anything tech and entomology, and I am happy to help <a href="https://www.linkedin.com/in/umeh-blessing/">Reach out</a>
+- 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/umeh-blessing/"/>Linkedin</a>
 - 😄 &nbsp; Pronouns: He/Him
 - ⚡ &nbsp; Fun fact: listening to Music and Playing Video Games
 
-<br>
-
-### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codehouze&show_icons=true&theme=radical)
-
-<!-- ### Badges -->
-<!-- [![@codehouze's Holopin board](https://holopin.me/codehouze)](https://holopin.io/@codehouze) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codehouze&layout=compact)](https://github.com/codehouze/github-readme-stats)
-
-### Active Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehouze&repo=Feedback-App)](https://github.com/Codehouze/Feedback-App)
-   
 <br>
 
 ### 🔨 Languages and Tools:
