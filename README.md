@@ -23,7 +23,7 @@ Currently, I am a PhD Follow at Nord University, Innocamp Steinkjer  Norway. Thi
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png" alt="python" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img align="left" alt="Excel" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"> </a>
 
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="Postgresql" height ="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png"></a>
 <a href="https://www.qgis.org/en/site/" target="_blank"><img align="left" alt="qgis" height ="42px" src="https://qgis.org/id/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></a>
