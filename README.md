@@ -16,7 +16,7 @@ Currently, I am a PhD Follow at Nord University, Innocamp Steinkjer  Norway. Thi
 - 🤔 &nbsp; I’m looking for a Remote Job.
 - 💬 &nbsp; Ask me about anything tech and entomology, and I am happy to help <a href="https://www.linkedin.com/in/umeh-blessing/">Reach out</a>
 - 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/umeh-blessing/"/>Linkedin</a>
-- 😄 &nbsp; Pronouns: He/Him
+- 😄 &nbsp; Pronouns: She/Her
 - ⚡ &nbsp; Fun fact: listening to Music and Playing Video Games
 
 <br>
